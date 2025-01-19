@@ -1,17 +1,17 @@
 name: Bug reports for commands
-description: For bugs that involve commands found within BotBlue.
+description: For bugs that involve commands found within Worka.
 labels: 'Type: Bug'
 body:
 - type: markdown
   attributes:
     value: |
       Thank you for taking the time to fill out an issue. This template is meant for any issues related to commands.
-      If you require help with installing Red we ask that you join our [Discord server](https://discord.gg/botblue)
+      If you require help with installing Red we ask that you join our [Discord server](https://discord.gg/workabot)
 - type: input
-  id: red-version
+  id: worka-version
   attributes:
-    label: "What Red version are you using?"
-    placeholder: 3.4.5
+    label: "What Worka version are you using?"
+    placeholder: 1.0.0
   validations:
     required: true
 - type: dropdown
