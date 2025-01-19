@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support question
+    url: https://discord.gg/workabot
+    about: For any questions regarding on how to operate and run Worka.
