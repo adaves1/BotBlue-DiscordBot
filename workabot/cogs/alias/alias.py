@@ -11,7 +11,7 @@ from workabot.core.i18n import Translator, cog_i18n
 from workabot.core.utils.chat_formatting import box, pagify
 from workabot.core.utils.menus import menu
 
-from redbot.core.bot import Red
+from workabot.core.bot import Worka
 from .alias_entry import AliasEntry, AliasCache, ArgParseError
 
 _ = Translator("Alias", __file__)
