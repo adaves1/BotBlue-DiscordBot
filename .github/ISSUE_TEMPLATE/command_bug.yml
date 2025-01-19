@@ -6,7 +6,7 @@ body:
   attributes:
     value: |
       Thank you for taking the time to fill out an issue. This template is meant for any issues related to commands.
-      If you require help with installing Red we ask that you join our [Discord server](https://discord.gg/workabot)
+      If you require help with installing Worka we ask that you join our [Discord server](https://discord.gg/workabot)
 - type: input
   id: worka-version
   attributes:
