@@ -1,0 +1,30 @@
+# Cogs
+/workabot/cogs/audio/**                                 @adaves1
+/workabot/cogs/downloader/*                             @adaves1
+/workabot/cogs/streams/*                                @adaves1
+/workabot/cogs/mutes/*                                  @jdaves.dev
+
+# Docs - Install and update guides
+/docs/install_guides/**                                 @adaves1
+/docs/update_red.rst                                    @adaves1
+
+# Docs - Version guarantees
+/docs/version_guarantees.rst                            @adaves1
+
+# Trivia Lists
+/workabot/cogs/trivia/data/lists/whosthatpokemon*.yaml  @jdaves.dev
+
+# Tests
+/workabot/pytest/downloader*                            @adaves1
+/tests/cogs/downloader/*                                @adaves1
+
+# Schemas
+/schema/*                                               @adaves1
+
+# CI
+/.travis.yml                                            @jdaves.dev
+/crowdin.yml                                            @jdaves.dev
+/.github/workflows/*                                    @adaves1
+
+# Excludes
+**/locales/*                                            @adaves1
